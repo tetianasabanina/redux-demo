@@ -4,6 +4,7 @@ const initialState = {
 };
 
 const reducer = (state = initialState, action) => {
+  console.log('statefromresult:', state);
     switch (action.type) {
         case actionTypes.STORE_RESULT: 
           return { ...state, results: state.results.concat({id: new Date(), value:action.result})  };
@@ -11,7 +12,7 @@ const reducer = (state = initialState, action) => {
         case  actionTypes.DELETE_RESULT:
           return{...state, results: state.results.filter(result => result.id !== action.resultElementId)}
     }
-    
+    console.log('statefromresult1:', state);
     return state;
 }
 
