@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tetianasabanina/redux-demo/static/css/main.5810b1bc.chunk.css",
+    "main.js": "/tetianasabanina/redux-demo/static/js/main.9a3e0666.chunk.js",
+    "main.js.map": "/tetianasabanina/redux-demo/static/js/main.9a3e0666.chunk.js.map",
+    "runtime-main.js": "/tetianasabanina/redux-demo/static/js/runtime-main.076b9019.js",
+    "runtime-main.js.map": "/tetianasabanina/redux-demo/static/js/runtime-main.076b9019.js.map",
+    "static/js/2.357cc2d6.chunk.js": "/tetianasabanina/redux-demo/static/js/2.357cc2d6.chunk.js",
+    "static/js/2.357cc2d6.chunk.js.map": "/tetianasabanina/redux-demo/static/js/2.357cc2d6.chunk.js.map",
+    "index.html": "/tetianasabanina/redux-demo/index.html",
+    "precache-manifest.0225801a287c37b307c84912a024567b.js": "/tetianasabanina/redux-demo/precache-manifest.0225801a287c37b307c84912a024567b.js",
+    "service-worker.js": "/tetianasabanina/redux-demo/service-worker.js",
+    "static/css/main.5810b1bc.chunk.css.map": "/tetianasabanina/redux-demo/static/css/main.5810b1bc.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.076b9019.js",
+    "static/js/2.357cc2d6.chunk.js",
+    "static/css/main.5810b1bc.chunk.css",
+    "static/js/main.9a3e0666.chunk.js"
+  ]
+}
