@@ -24,6 +24,7 @@ class Counter extends Component {
     render () {
         console.log('Counter:', this.props.counter);
         return (
+
             
             <div>
                 <h1>Your score is: {this.props.ctr} </h1>
