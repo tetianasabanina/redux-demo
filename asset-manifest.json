@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tetianasabanina/redux-demo/static/css/main.5810b1bc.chunk.css",
-    "main.js": "/tetianasabanina/redux-demo/static/js/main.9a3e0666.chunk.js",
-    "main.js.map": "/tetianasabanina/redux-demo/static/js/main.9a3e0666.chunk.js.map",
-    "runtime-main.js": "/tetianasabanina/redux-demo/static/js/runtime-main.076b9019.js",
-    "runtime-main.js.map": "/tetianasabanina/redux-demo/static/js/runtime-main.076b9019.js.map",
-    "static/js/2.357cc2d6.chunk.js": "/tetianasabanina/redux-demo/static/js/2.357cc2d6.chunk.js",
-    "static/js/2.357cc2d6.chunk.js.map": "/tetianasabanina/redux-demo/static/js/2.357cc2d6.chunk.js.map",
-    "index.html": "/tetianasabanina/redux-demo/index.html",
-    "precache-manifest.efa9ee677270dfeec331e40ed3e26147.js": "/tetianasabanina/redux-demo/precache-manifest.efa9ee677270dfeec331e40ed3e26147.js",
-    "service-worker.js": "/tetianasabanina/redux-demo/service-worker.js",
-    "static/css/main.5810b1bc.chunk.css.map": "/tetianasabanina/redux-demo/static/css/main.5810b1bc.chunk.css.map"
+    "main.css": "/redux-demo/static/css/main.5810b1bc.chunk.css",
+    "main.js": "/redux-demo/static/js/main.9a3e0666.chunk.js",
+    "main.js.map": "/redux-demo/static/js/main.9a3e0666.chunk.js.map",
+    "runtime-main.js": "/redux-demo/static/js/runtime-main.88c20f96.js",
+    "runtime-main.js.map": "/redux-demo/static/js/runtime-main.88c20f96.js.map",
+    "static/js/2.357cc2d6.chunk.js": "/redux-demo/static/js/2.357cc2d6.chunk.js",
+    "static/js/2.357cc2d6.chunk.js.map": "/redux-demo/static/js/2.357cc2d6.chunk.js.map",
+    "index.html": "/redux-demo/index.html",
+    "precache-manifest.9c62d66b301b673f7168479c89527a73.js": "/redux-demo/precache-manifest.9c62d66b301b673f7168479c89527a73.js",
+    "service-worker.js": "/redux-demo/service-worker.js",
+    "static/css/main.5810b1bc.chunk.css.map": "/redux-demo/static/css/main.5810b1bc.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.076b9019.js",
+    "static/js/runtime-main.88c20f96.js",
     "static/js/2.357cc2d6.chunk.js",
     "static/css/main.5810b1bc.chunk.css",
     "static/js/main.9a3e0666.chunk.js"
